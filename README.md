@@ -1,2 +1,2 @@
 # ICS4U-Portfolio-Maxim
-Final project for ICS4U course
+Link to my portfolio: https://mshai2.github.io/ICS4U-Portfolio-Maxim/
